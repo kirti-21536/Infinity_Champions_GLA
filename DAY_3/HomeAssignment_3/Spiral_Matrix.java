@@ -1,4 +1,4 @@
-package DAY_3.HomeAssignment_3;
+package HomeAssignment_3;
 import java.util.*;
 public class Spiral_Matrix {
     public static void main(String[] args) {
